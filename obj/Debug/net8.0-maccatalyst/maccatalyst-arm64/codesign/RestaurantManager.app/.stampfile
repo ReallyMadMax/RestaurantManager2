@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/max/Downloads/RestaurantManager/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/max/Downloads/RestaurantManager/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/RestaurantManager.app

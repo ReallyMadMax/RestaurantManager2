@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/max/Downloads/RestaurantManager/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/bundle/RestaurantManager.styles.css",
+      "PackagePath": "staticwebassets/RestaurantManager.styles.css"
+    },
+    {
+      "Id": "/Users/max/Downloads/RestaurantManager/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/max/Downloads/RestaurantManager/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/max/Downloads/RestaurantManager/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/max/Downloads/RestaurantManager/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/max/Downloads/RestaurantManager/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.RestaurantManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.build.RestaurantManager.props",
+      "PackagePath": "build\\RestaurantManager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildMultiTargeting.RestaurantManager.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantManager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildTransitive.RestaurantManager.props",
+      "PackagePath": "buildTransitive\\RestaurantManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
